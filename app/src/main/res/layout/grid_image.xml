@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView
+        android:id="@+id/grid_pic"
+        android:layout_width="125.0dip"
+        android:layout_height="150.0dip"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+    <ProgressBar
+        android:id="@+id/pBarGrid"
+        android:visibility="gone"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true" />
+</RelativeLayout>

@@ -1,0 +1,24 @@
+<resources>
+    <string name="action_settings">Impostazioni</string>
+    <string name="add_image">Aggiungi Immagine</string>
+    <string name="app_name">MyApp</string>
+    <string name="choose_an_option">Seleziona un\'opzione per aggiungere l\'immagine</string>
+    <string name="delete_contact">Elimina</string>
+    <string name="edit_contact">Modifica</string>
+    <string name="list_key">list_order</string>
+    <string name="list_order_default">0</string>
+    <string name="list_order_title">Ordina per</string>
+    <string name="main_pic">IMMAGINE PROFILO</string>
+    <string name="name">Nome</string>
+    <string name="other_pic">ALTRE IMMAGINI</string>
+    <string name="phone">Telefono</string>
+    <string name="search_title">Cerca</string>
+    <string name="show_key">show_order</string>
+    <string name="show_order_default">0</string>
+    <string name="show_order_title">Mostra prima</string>
+    <string name="surname">Cognome</string>
+    <string name="title_activity_add">Aggiungi Nuovo Contatto</string>
+    <string name="title_activity_contact_info">Profilo</string>
+    <string name="title_activity_settings">Impostazioni</string>
+    <string name="title_edit_contact">Modifica Contatto</string>
+</resources>
